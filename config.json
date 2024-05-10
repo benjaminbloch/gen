@@ -1,0 +1,29 @@
+{
+    "token": "",
+    "prefix": ".",
+    "webhook": "#35c6fb",
+    "mysql": {
+        "host": "127.0.0.1",
+        "user": "root",
+        "password": "",
+        "database": "leinad_bot"
+    },
+    "gerador_channel_stock": "1037751702482325554",
+    "gerador": [
+        {
+            "name": "free",
+            "cargo": "1037752752257908796",
+            "channel": "1037751863925289091"
+        },
+        {
+            "name": "boost",
+            "cargo": "1037753012128583780",
+            "channel": "1037751882589941880"
+        },
+        {
+            "name": "pago",
+            "cargo": "1037753199391682590",
+            "channel": "1037751902953283615"
+        }
+    ]
+}
